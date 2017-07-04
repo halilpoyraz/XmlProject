@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<urunler firma="Bakkal Remzi" sube="Çubuklu Mah.">
+  <urun>
+    <adi>Sahlep</adi>
+    <fiyat>5</fiyat>
+    <adet>125</adet>
+  </urun>
+  <urun>
+    <adi>Çay</adi>
+    <fiyat>2</fiyat>
+    <adet>150</adet>
+  </urun>
+  <urun>
+    <adi>Su</adi>
+    <fiyat>1</fiyat>
+    <adet>200</adet>
+  </urun>
+  <urun>
+    <adi>Kola</adi>
+    <fiyat>8</fiyat>
+    <adet>255</adet>
+  </urun>
+  <urun>
+    <adi>Limonata</adi>
+    <fiyat>4</fiyat>
+    <adet>190</adet>
+  </urun>
+  <urun>
+    <adi>Gazoz</adi>
+    <fiyat>7</fiyat>
+    <adet>250</adet>
+  </urun>
+</urunler>
